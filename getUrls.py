@@ -1,6 +1,6 @@
-from bs4 import BeautifulSoup
-import requests
 import csv
+import requests
+from bs4 import BeautifulSoup
 
 # url,req,soup
 url = "http://uad.ac.id/"
